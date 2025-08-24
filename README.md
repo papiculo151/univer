@@ -1,4 +1,5 @@
 <div align="center">
+git checkout -b fix/navbar-bug
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./docs/img/banner-light.png">
