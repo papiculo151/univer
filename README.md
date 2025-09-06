@@ -1,7 +1,7 @@
 <div align="center">
 git checkout -b fix/navbar-bug
 
-<picture>
+<picture>z
     <source media="(prefers-color-scheme: dark)" srcset="./docs/img/banner-light.png">
     <img src="./docs/img/banner-dark.png" alt="Univer" width="400" />
 </picture>
